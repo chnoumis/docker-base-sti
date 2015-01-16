@@ -1,4 +1,4 @@
-FROM base-jdk:7
+FROM chnoumis/base-jdk:7
 
 MAINTAINER chnoumis <it@chnoumis.com>
 
