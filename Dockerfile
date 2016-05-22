@@ -1,6 +1,6 @@
 FROM chnoumis/base-jdk:2.7.1
 
-MAINTAINER chnoumis <it@chnoumis.com>
+MAINTAINER chnoumis
 
 ENV MAVEN_MAJOR 3
 ENV MAVEN_VERSION 3.2.5
