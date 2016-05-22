@@ -1,4 +1,4 @@
-FROM chnoumis/base-jdk:2.7.1
+FROM chnoumis/base:2.0.0
 
 MAINTAINER chnoumis
 
